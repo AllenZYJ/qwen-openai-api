@@ -1,6 +1,6 @@
 # Qwen2.5-VL API 服务器
 
-基于Flask的API服务器，提供与OpenAI兼容的Qwen2.5-VL视觉语言模型接口。
+基于Fastapi的API服务器，提供与OpenAI兼容的Qwen2.5-VL视觉语言模型接口。
 
 ## 概述
 
